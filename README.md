@@ -175,7 +175,7 @@ I would like to thank you all who helped me in this project. including microvers
 
 > **Answer**
 
-- A blog app serves to facilitate content creation and sharing within a digital platform. It empowers users to express ideas, insights, and information through written articles. It fosters engagement, encourages discussions, and provides a convenient space for writers to connect with a global audience, fostering communication and knowledge exchange.
+- A blog app serves to facilitate content creation and sharing within a digital platform. It empowers users to express ideas, insights, and information through written articles. It fosters engagement, encourages discussions, and provides a convenient space for writers to connect with a global audience, fostering communication and knowledge exchange
 
 
 
